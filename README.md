@@ -1,1 +1,3 @@
-README for notes of git learning.
+README 
+
+Notes of git learning.
